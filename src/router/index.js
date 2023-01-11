@@ -1,17 +1,17 @@
 import { Redirect } from 'react-router-dom'
 import React from 'react'
 
-import HWDiscover from '@/views/discover';
-import HwRecommend from '@/views/discover/children-views/recommend';
-import HwTopList from '@/views/discover/children-views/top-list';
-import HwArtist from '@/views/discover/children-views/artist';
-import HwDjRadio from '@/views/discover/children-views/djradio';
-import HwAlbum from '@/views/discover/children-views/album';
-import HwPlayList from '@/views/discover/children-views/playlist';
-import HwPlayer from '@/views/player';
+const HWDiscover = React.lazy(() => import('@/views/discover'))
+const HwRecommend = React.lazy(() => import('@/views/discover/children-views/recommend'));
+const HwTopList = React.lazy(() => import('@/views/discover/children-views/top-list'));
+const HwArtist = React.lazy(() => import('@/views/discover/children-views/artist'));
+const HwDjRadio = React.lazy(() => import('@/views/discover/children-views/djradio'));
+const HwAlbum = React.lazy(() => import('@/views/discover/children-views/album'));
+const HwPlayList = React.lazy(() => import('@/views/discover/children-views/playlist'));
+const HwPlayer = React.lazy(() => import('@/views/player'));
 
-import HwFriend from '@/views/friend';
-import HwMine from '@/views/mine';
+const HwFriend = React.lazy(() => import('@/views/friend'));
+const HwMine = React.lazy(() => import('@/views/mine'));
 
 const routes = [
     // {
