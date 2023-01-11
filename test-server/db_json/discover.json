@@ -1,0 +1,240 @@
+{
+  "discoverData": [
+    {
+      "title": "【B.G.M.】游戏必备战歌",
+      "imageUrl": "http://p1.music.126.net/mqTKX_-Llqif4oFJkfWpRw==/109951164206445553.jpg?param=140y140",
+      "playCount": "3673万"
+    },
+    {
+      "title": "「纯音乐」你偶尔需要安静的发泄",
+      "imageUrl": "http://p1.music.126.net/QCtK5ro1zrnXFmjLUIW4qg==/109951167308852599.jpg?param=140y140",
+      "playCount": "2455万"
+    },
+    {
+      "title": "【R&B】慵懒的感觉非常舒服",
+      "imageUrl": "http://p1.music.126.net/JKiCDG-xfj203gcui2z6aA==/109951163139073602.jpg?param=140y140",
+      "playCount": "3731万"
+    },
+    {
+      "title": "辛小说 Winnie's Remix VOL32：The Prayer",
+      "imageUrl": "http://p1.music.126.net/F3NJyaGH-fniXUbs1uYYRw==/109951167251646393.jpg?param=140y140",
+      "playCount": "1754"
+    },
+    {
+      "title": "助眠辑 | 自然音，伴灵动乐符萦绕耳畔",
+      "imageUrl": "http://p1.music.126.net/sixunTcvD_IXeVqxZnpHkA==/109951163452086313.jpg?param=140y140",
+      "playCount": "2793万"
+    },
+    {
+      "title": "该不该允许男友的女同事坐副驾驶？",
+      "imageUrl": "http://p2.music.126.net/b0Qqx6A1wDnkVWoP58e1Gw==/109951168002730385.jpg?param=140y140",
+      "playCount": "6160"
+    },
+    {
+      "title": "♬跑步音乐-脚步跟着节奏动起来",
+      "imageUrl": "http://p1.music.126.net/kXR1HvosSIQnNrhVyHkNWg==/3318326093774145.jpg?param=140y140",
+      "playCount": "3126万"
+    },
+    {
+      "title": "林俊杰,By2 - 不潮不用花钱（DJ铁柱Remix）",
+      "imageUrl": "http://p2.music.126.net/f0WGh-wxHDVuAKFM9MsZSA==/109951166633361765.jpg?param=140y140",
+      "playCount": "22万"
+    }
+  ],
+  "newAlbumData": [
+    [
+      {
+        "author": "BIBI",
+        "albumName": "Lowlife Princess: Noir",
+        "imageUrl": "http://p4.music.126.net/T-BlAhykcSeO74BB4uGvEQ==/109951168065531028.jpg?param=100y100"
+      },
+      {
+        "author": "Michael Jackson",
+        "albumName": "Thriller 40",
+        "imageUrl": "http://p3.music.126.net/DOtaUFeUL2X9IItz4MVXNg==/109951168068405893.jpg?param=100y100"
+      },
+      {
+        "author": "袁娅维TIA RAY",
+        "albumName": "TRIP",
+        "imageUrl": "http://p3.music.126.net/KGeCikWKlAeZM4273ZqCwg==/109951168064764327.jpg?param=100y100"
+      },
+      {
+        "author": "LiSA",
+        "albumName": "LANDER",
+        "imageUrl": "http://p3.music.126.net/nCK3njr8J1_tJWos5dv4vQ==/109951168018665129.jpg?param=100y100"
+      },
+      {
+        "author": "KnowKnow",
+        "albumName": "LONG TIME KNOW SEE",
+        "imageUrl": "http://p3.music.126.net/iIZUxYR4bQrmnIRfj6OCsw==/109951168030252959.jpg?param=100y100"
+      }
+    ],
+    [
+      {
+        "author": "RADWIMPS / 陣内一真",
+        "albumName": "すずめの戸締まり",
+        "imageUrl": "http://p4.music.126.net/D1SFObel_sAw_KMojvJZqw==/109951167999320860.jpg?param=100y100"
+      },
+      {
+        "author": "Joji",
+        "albumName": "SMITHEREENS",
+        "imageUrl": "http://p4.music.126.net/GN11ZWsb1hAfgrl4PZZwBQ==/109951168021763482.jpg?param=100y100"
+      },
+      {
+        "author": "Drake / 21 Savage",
+        "albumName": "Her Loss",
+        "imageUrl": "http://p3.music.126.net/5zcBynCRT4bc_6hjb_WLPg==/109951168029431605.jpg?param=100y100"
+      },
+      {
+        "author": "刘思鉴",
+        "albumName": "TOTEM（图腾）",
+        "imageUrl": "http://p3.music.126.net/HC0qtLUr3ciQSo-_q9SvwA==/109951168018756524.jpg?param=100y100"
+      },
+      {
+        "author": "Taylor Swift",
+        "albumName": "Midnights (3am Edition)",
+        "imageUrl": "http://p3.music.126.net/PIJYDxirhadM3xpHn6yMmQ==/109951168069972335.jpg?param=100y100"
+      }
+    ]
+  ],
+  "rankData": [
+    {
+      "rankTitle": "飙升榜",
+      "rankTitleImage": "http://p4.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?param=100y100",
+      "rankGroup": [
+        {
+          "songName": "海のまにまに",
+          "songHref": "/song?id=1994955842"
+        },
+        {
+          "songName": "惊奇无限假期 A-T-V",
+          "songHref": "/song?id=1998922131"
+        },
+        {
+          "songName": "病态",
+          "songHref": "/song?id=1992727103"
+        },
+        {
+          "songName": "午夜恰恰",
+          "songHref": "/song?id=1992997073"
+        },
+        {
+          "songName": "解释",
+          "songHref": "/song?id=1979068123"
+        },
+        {
+          "songName": "原谅",
+          "songHref": "/song?id=1989430006"
+        },
+        {
+          "songName": "我知道",
+          "songHref": "/song?id=344418"
+        },
+        {
+          "songName": "Tukoh Taka (Official FFF Anthem)",
+          "songHref": "/song?id=1999527595"
+        },
+        {
+          "songName": "追光的人",
+          "songHref": "/song?id=1998931166"
+        },
+        {
+          "songName": "Extremes",
+          "songHref": "/song?id=1996470992"
+        }
+      ]
+    },
+    {
+      "rankTitle": "新歌榜",
+      "rankTitleImage": "http://p4.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?param=100y100",
+      "rankGroup": [
+        {
+          "songName": "狂恋",
+          "songHref": "/song?id=1983464993"
+        },
+        {
+          "songName": "回答",
+          "songHref": "/song?id=1994863874"
+        },
+        {
+          "songName": "达尔文·2022",
+          "songHref": "/song?id=1992083081"
+        },
+        {
+          "songName": "那么骄傲",
+          "songHref": "/song?id=1995174272"
+        },
+        {
+          "songName": "骂醒我·2022",
+          "songHref": "/song?id=1989423797"
+        },
+        {
+          "songName": "人啊人",
+          "songHref": "/song?id=1998929575"
+        },
+        {
+          "songName": "写不来情歌",
+          "songHref": "/song?id=1995339514"
+        },
+        {
+          "songName": "再见我的女孩",
+          "songHref": "/song?id=1992338319"
+        },
+        {
+          "songName": "当爱在靠近（烟嗓）",
+          "songHref": "/song?id=1994328481"
+        },
+        {
+          "songName": "午夜恰恰",
+          "songHref": "/song?id=1992997073"
+        }
+      ]
+    },
+    {
+      "rankTitle": "原创榜",
+      "rankTitleImage": "http://p4.music.126.net/iFZ_nw2V86IFk90dc50kdQ==/109951166961388699.jpg?param=100y100",
+      "rankGroup": [
+        {
+          "songName": "我回来了",
+          "songHref": "/song?id=1997537240"
+        },
+        {
+          "songName": "不晚",
+          "songHref": "/song?id=1996585497"
+        },
+        {
+          "songName": "只爱我自己",
+          "songHref": "/song?id=1996577914"
+        },
+        {
+          "songName": "陪你看流星",
+          "songHref": "/song?id=1998344984"
+        },
+        {
+          "songName": "这首歌要单曲循环好多遍",
+          "songHref": "/song?id=1996830524"
+        },
+        {
+          "songName": "海的女儿",
+          "songHref": "/song?id=1997509373"
+        },
+        {
+          "songName": "躺着的人生（Live）",
+          "songHref": "/song?id=1997195143"
+        },
+        {
+          "songName": "蝴蝶，姐姐，和歌",
+          "songHref": "/song?id=1997223350"
+        },
+        {
+          "songName": "故事",
+          "songHref": "/song?id=1996332662"
+        },
+        {
+          "songName": "滴滴答答",
+          "songHref": "/song?id=1998444702"
+        }
+      ]
+    }
+  ]
+}

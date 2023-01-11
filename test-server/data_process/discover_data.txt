@@ -1,0 +1,828 @@
+<div id="discover-module" class="g-bd1 f-cb">
+<div class="g-mn1">
+<div class="g-mn1c">
+<div class="g-wrap3">
+<div class="n-rcmd">
+<div class="v-hd2">
+<a href="/discover/playlist/" class="tit f-ff2 f-tdn" id="recommend_title">热门推荐</a>
+<div class="tab">
+<a href="/discover/playlist/?cat=%E5%8D%8E%E8%AF%AD" class="s-fc3">华语</a>
+<span class="line">|</span>
+<a href="/discover/playlist/?cat=%E6%B5%81%E8%A1%8C" class="s-fc3">流行</a>
+<span class="line">|</span>
+<a href="/discover/playlist/?cat=%E6%91%87%E6%BB%9A" class="s-fc3">摇滚</a>
+<span class="line">|</span>
+<a href="/discover/playlist/?cat=%E6%B0%91%E8%B0%A3" class="s-fc3">民谣</a>
+<span class="line">|</span>
+<a href="/discover/playlist/?cat=%E7%94%B5%E5%AD%90" class="s-fc3">电子</a>
+</div>
+<span class="more"><a href="/discover/playlist/" class="s-fc3">更多</a><i class="cor s-bg s-bg-6">&nbsp;</i></span>
+</div>
+<ul class="m-cvrlst f-cb">
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/mqTKX_-Llqif4oFJkfWpRw==/109951164206445553.jpg?param=140y140">
+<a title="【B.G.M.】游戏必备战歌" href="/playlist?id=367649303" class="msk" data-res-id="367649303" data-res-type="13" data-res-action="log" data-res-data="recommendclick|0|alg_high_quality|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="13" data-res-id="367649303" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">3673万</span>
+</div>
+</div>
+<p class="dec">
+<a title="【B.G.M.】游戏必备战歌" class="tit s-fc0" href="/playlist?id=367649303" data-res-id="367649303" data-res-type="13" data-res-action="log" data-res-data="recommendclick|0|alg_high_quality|user-playlist">
+【B.G.M.】游戏必备战歌
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/QCtK5ro1zrnXFmjLUIW4qg==/109951167308852599.jpg?param=140y140">
+<a title="「纯音乐」你偶尔需要安静的发泄" href="/playlist?id=2229469033" class="msk" data-res-id="2229469033" data-res-type="13" data-res-action="log" data-res-data="recommendclick|1|alg_high_quality|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="13" data-res-id="2229469033" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">2455万</span>
+</div>
+</div>
+<p class="dec">
+<a title="「纯音乐」你偶尔需要安静的发泄" class="tit s-fc0" href="/playlist?id=2229469033" data-res-id="2229469033" data-res-type="13" data-res-action="log" data-res-data="recommendclick|1|alg_high_quality|user-playlist">
+「纯音乐」你偶尔需要安静的发泄
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/JKiCDG-xfj203gcui2z6aA==/109951163139073602.jpg?param=140y140">
+<a title="【R&amp;B】慵懒的感觉非常舒服" href="/playlist?id=2094091970" class="msk" data-res-id="2094091970" data-res-type="13" data-res-action="log" data-res-data="recommendclick|2|alg_high_quality|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="13" data-res-id="2094091970" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">3731万</span>
+</div>
+</div>
+<p class="dec">
+<a title="【R&amp;B】慵懒的感觉非常舒服" class="tit s-fc0" href="/playlist?id=2094091970" data-res-id="2094091970" data-res-type="13" data-res-action="log" data-res-data="recommendclick|2|alg_high_quality|user-playlist">
+【R&amp;B】慵懒的感觉非常舒服
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/F3NJyaGH-fniXUbs1uYYRw==/109951167251646393.jpg?param=140y140">
+<a title="辛小说 Winnie's Remix VOL32：The Prayer" href="/dj?id=2513651513" class="msk" data-res-id="2513651513" data-res-type="13" data-res-action="log" data-res-data="recommendclick|3|featured|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="17" data-res-id="2513651513" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">1754</span>
+</div>
+</div>
+<p class="dec">
+<a title="辛小说 Winnie's Remix VOL32：The Prayer" class="tit s-fc0" href="/dj?id=2513651513" data-res-id="2513651513" data-res-type="17" data-res-action="log" data-res-data="recommendclick|3|featured|user-playlist">
+<i class="u-icn u-icn-53"></i>
+辛小说 Winnie's Remix VOL32：The Prayer
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/sixunTcvD_IXeVqxZnpHkA==/109951163452086313.jpg?param=140y140">
+<i class="u-jp u-icn2 u-icn2-jp3"></i>
+<a title="助眠辑 | 自然音，伴灵动乐符萦绕耳畔" href="/playlist?id=2075587022" class="msk" data-res-id="2075587022" data-res-type="13" data-res-action="log" data-res-data="recommendclick|4|alg_high_quality|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="13" data-res-id="2075587022" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">2793万</span>
+</div>
+</div>
+<p class="dec">
+<a title="助眠辑 | 自然音，伴灵动乐符萦绕耳畔" class="tit s-fc0" href="/playlist?id=2075587022" data-res-id="2075587022" data-res-type="13" data-res-action="log" data-res-data="recommendclick|4|alg_high_quality|user-playlist">
+助眠辑 | 自然音，伴灵动乐符萦绕耳畔
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p2.music.126.net/b0Qqx6A1wDnkVWoP58e1Gw==/109951168002730385.jpg?param=140y140">
+<a title="该不该允许男友的女同事坐副驾驶？" href="/dj?id=2513862989" class="msk" data-res-id="2513862989" data-res-type="13" data-res-action="log" data-res-data="recommendclick|5|featured|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="17" data-res-id="2513862989" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">6160</span>
+</div>
+</div>
+<p class="dec">
+<a title="该不该允许男友的女同事坐副驾驶？" class="tit s-fc0" href="/dj?id=2513862989" data-res-id="2513862989" data-res-type="17" data-res-action="log" data-res-data="recommendclick|5|featured|user-playlist">
+<i class="u-icn u-icn-53"></i>
+该不该允许男友的女同事坐副驾驶？
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p1.music.126.net/kXR1HvosSIQnNrhVyHkNWg==/3318326093774145.jpg?param=140y140">
+<a title="♬跑步音乐-脚步跟着节奏动起来" href="/playlist?id=114502510" class="msk" data-res-id="114502510" data-res-type="13" data-res-action="log" data-res-data="recommendclick|6|alg_high_quality|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="13" data-res-id="114502510" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">3126万</span>
+</div>
+</div>
+<p class="dec">
+<a title="♬跑步音乐-脚步跟着节奏动起来" class="tit s-fc0" href="/playlist?id=114502510" data-res-id="114502510" data-res-type="13" data-res-action="log" data-res-data="recommendclick|6|alg_high_quality|user-playlist">
+♬跑步音乐-脚步跟着节奏动起来
+</a>
+</p>
+</li>
+<li>
+<div class="u-cover u-cover-1">
+<img src="http://p2.music.126.net/f0WGh-wxHDVuAKFM9MsZSA==/109951166633361765.jpg?param=140y140">
+<a title="林俊杰,By2 - 不潮不用花钱（DJ铁柱Remix）" href="/dj?id=2513889759" class="msk" data-res-id="2513889759" data-res-type="13" data-res-action="log" data-res-data="recommendclick|7|hot_server|user-playlist"></a>
+<div class="bottom">
+<a class="icon-play f-fr" title="播放" href="javascript:;" data-res-type="17" data-res-id="2513889759" data-res-action="play"></a>
+<span class="icon-headset"></span>
+<span class="nb">22万</span>
+</div>
+</div>
+<p class="dec">
+<a title="林俊杰,By2 - 不潮不用花钱（DJ铁柱Remix）" class="tit s-fc0" href="/dj?id=2513889759" data-res-id="2513889759" data-res-type="17" data-res-action="log" data-res-data="recommendclick|7|hot_server|user-playlist">
+<i class="u-icn u-icn-53"></i>
+林俊杰,By2 - 不潮不用花钱（DJ铁柱Remix）
+</a>
+</p>
+</li>
+</ul>
+</div>
+<div class="n-rcmd" id="personalRec"></div>
+<div id="j-music-ad" class="n-clmnad" data-has-music-ad="0">
+<div class="j-flag f-hide" id="auto-id-vTksepqLhKXDA4TT"></div>
+</div>
+<div class="n-new">
+<div class="v-hd2">
+<a href="/discover/album/" class="tit f-ff2 f-tdn">新碟上架</a>
+<span class="more"><a href="/discover/album/" class="s-fc3">更多</a><i class="cor s-bg s-bg-6">&nbsp;</i></span>
+</div>
+<div class="n-disk">
+<div class="inner" id="album-roller">
+<a hidefocus="true" href="#" class="click-flag pre s-bg s-bg-7 f-tdn">&nbsp;</a>
+<div class="roll f-pr">
+<ul class="f-cb roller-flag" style="left:-645px;">
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/T-BlAhykcSeO74BB4uGvEQ==/109951168065531028.jpg?param=100y100" src="http://p4.music.126.net/T-BlAhykcSeO74BB4uGvEQ==/109951168065531028.jpg?param=100y100">
+<a title="Lowlife Princess: Noir" href="/album?id=155043848" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155043848" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Lowlife Princess: Noir" href="/album?id=155043848" class="s-fc0 tit">Lowlife Princess: Noir</a></p>
+<p class="tit f-thide" title="BIBI">
+<a class="s-fc3" href="/artist?id=12457112">BIBI</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/DOtaUFeUL2X9IItz4MVXNg==/109951168068405893.jpg?param=100y100" src="http://p3.music.126.net/DOtaUFeUL2X9IItz4MVXNg==/109951168068405893.jpg?param=100y100">
+<a title="Thriller 40" href="/album?id=155116994" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155116994" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Thriller 40" href="/album?id=155116994" class="s-fc0 tit">Thriller 40</a></p>
+<p class="tit f-thide" title="Michael Jackson">
+<a class="s-fc3" href="/artist?id=38853">Michael Jackson</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/KGeCikWKlAeZM4273ZqCwg==/109951168064764327.jpg?param=100y100" src="http://p3.music.126.net/KGeCikWKlAeZM4273ZqCwg==/109951168064764327.jpg?param=100y100">
+<a title="TRIP" href="/album?id=155029524" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155029524" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="TRIP" href="/album?id=155029524" class="s-fc0 tit">TRIP</a></p>
+<p class="tit f-thide" title="袁娅维TIA RAY">
+<a class="s-fc3" href="/artist?id=10473">袁娅维TIA RAY</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/nCK3njr8J1_tJWos5dv4vQ==/109951168018665129.jpg?param=100y100" src="http://p3.music.126.net/nCK3njr8J1_tJWos5dv4vQ==/109951168018665129.jpg?param=100y100">
+<a title="LANDER" href="/album?id=154133576" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154133576" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="LANDER" href="/album?id=154133576" class="s-fc0 tit">LANDER</a></p>
+<p class="tit f-thide" title="LiSA">
+<a class="s-fc3" href="/artist?id=16995">LiSA</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/iIZUxYR4bQrmnIRfj6OCsw==/109951168030252959.jpg?param=100y100" src="http://p3.music.126.net/iIZUxYR4bQrmnIRfj6OCsw==/109951168030252959.jpg?param=100y100">
+<a title="LONG TIME KNOW SEE" href="/album?id=154402046" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154402046" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="LONG TIME KNOW SEE" href="/album?id=154402046" class="s-fc0 tit">LONG TIME KNOW SEE</a></p>
+<p class="tit f-thide" title="KnowKnow">
+<a class="s-fc3" href="/artist?id=27868624">KnowKnow</a>
+</p></li>
+</ul>
+<ul class="f-cb roller-flag" style="left: -645px; transition: none 0s ease 0s;" id="auto-id-oy1InDaC3LvOZmMu">
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/D1SFObel_sAw_KMojvJZqw==/109951167999320860.jpg?param=100y100" src="http://p4.music.126.net/D1SFObel_sAw_KMojvJZqw==/109951167999320860.jpg?param=100y100">
+<a title="すずめの戸締まり" href="/album?id=153778832" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="153778832" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="すずめの戸締まり" href="/album?id=153778832" class="s-fc0 tit">すずめの戸締まり</a></p>
+<p class="tit f-thide" title="RADWIMPS / 陣内一真">
+<a class="s-fc3" href="/artist?id=21132">RADWIMPS</a>
+&nbsp;/&nbsp;
+<a class="s-fc3" href="/artist?id=938076">陣内一真</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/GN11ZWsb1hAfgrl4PZZwBQ==/109951168021763482.jpg?param=100y100" src="http://p4.music.126.net/GN11ZWsb1hAfgrl4PZZwBQ==/109951168021763482.jpg?param=100y100">
+<a title="SMITHEREENS" href="/album?id=154196686" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154196686" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="SMITHEREENS" href="/album?id=154196686" class="s-fc0 tit">SMITHEREENS</a></p>
+<p class="tit f-thide" title="Joji">
+<a class="s-fc3" href="/artist?id=12203295">Joji</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/5zcBynCRT4bc_6hjb_WLPg==/109951168029431605.jpg?param=100y100" src="http://p3.music.126.net/5zcBynCRT4bc_6hjb_WLPg==/109951168029431605.jpg?param=100y100">
+<a title="Her Loss" href="/album?id=154386904" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154386904" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Her Loss" href="/album?id=154386904" class="s-fc0 tit">Her Loss</a></p>
+<p class="tit f-thide" title="Drake / 21 Savage">
+<a class="s-fc3" href="/artist?id=53283">Drake</a>
+&nbsp;/&nbsp;
+<a class="s-fc3" href="/artist?id=12062134">21 Savage</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/HC0qtLUr3ciQSo-_q9SvwA==/109951168018756524.jpg?param=100y100" src="http://p3.music.126.net/HC0qtLUr3ciQSo-_q9SvwA==/109951168018756524.jpg?param=100y100">
+<a title="TOTEM（图腾）" href="/album?id=154132262" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154132262" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="TOTEM（图腾）" href="/album?id=154132262" class="s-fc0 tit">TOTEM（图腾）</a></p>
+<p class="tit f-thide" title="刘思鉴">
+<a class="s-fc3" href="/artist?id=12798217">刘思鉴</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/PIJYDxirhadM3xpHn6yMmQ==/109951168069972335.jpg?param=100y100" src="http://p3.music.126.net/PIJYDxirhadM3xpHn6yMmQ==/109951168069972335.jpg?param=100y100">
+<a title="Midnights (3am Edition)" href="/album?id=153345099" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="153345099" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Midnights (3am Edition)" href="/album?id=153345099" class="s-fc0 tit">Midnights (3am Edition)</a></p>
+<p class="tit f-thide" title="Taylor Swift">
+<a class="s-fc3" href="/artist?id=44266">Taylor Swift</a>
+</p></li>
+</ul>
+<ul class="f-cb roller-flag" style="left: 0px; transition: none 0s ease 0s;" id="auto-id-NFcQHZ8fXfnWZSyu">
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/T-BlAhykcSeO74BB4uGvEQ==/109951168065531028.jpg?param=100y100" src="http://p4.music.126.net/T-BlAhykcSeO74BB4uGvEQ==/109951168065531028.jpg?param=100y100">
+<a title="Lowlife Princess: Noir" href="/album?id=155043848" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155043848" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Lowlife Princess: Noir" href="/album?id=155043848" class="s-fc0 tit">Lowlife Princess: Noir</a></p>
+<p class="tit f-thide" title="BIBI">
+<a class="s-fc3" href="/artist?id=12457112">BIBI</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/DOtaUFeUL2X9IItz4MVXNg==/109951168068405893.jpg?param=100y100" src="http://p3.music.126.net/DOtaUFeUL2X9IItz4MVXNg==/109951168068405893.jpg?param=100y100">
+<a title="Thriller 40" href="/album?id=155116994" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155116994" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Thriller 40" href="/album?id=155116994" class="s-fc0 tit">Thriller 40</a></p>
+<p class="tit f-thide" title="Michael Jackson">
+<a class="s-fc3" href="/artist?id=38853">Michael Jackson</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/KGeCikWKlAeZM4273ZqCwg==/109951168064764327.jpg?param=100y100" src="http://p3.music.126.net/KGeCikWKlAeZM4273ZqCwg==/109951168064764327.jpg?param=100y100">
+<a title="TRIP" href="/album?id=155029524" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="155029524" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="TRIP" href="/album?id=155029524" class="s-fc0 tit">TRIP</a></p>
+<p class="tit f-thide" title="袁娅维TIA RAY">
+<a class="s-fc3" href="/artist?id=10473">袁娅维TIA RAY</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/nCK3njr8J1_tJWos5dv4vQ==/109951168018665129.jpg?param=100y100" src="http://p3.music.126.net/nCK3njr8J1_tJWos5dv4vQ==/109951168018665129.jpg?param=100y100">
+<a title="LANDER" href="/album?id=154133576" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154133576" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="LANDER" href="/album?id=154133576" class="s-fc0 tit">LANDER</a></p>
+<p class="tit f-thide" title="LiSA">
+<a class="s-fc3" href="/artist?id=16995">LiSA</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/iIZUxYR4bQrmnIRfj6OCsw==/109951168030252959.jpg?param=100y100" src="http://p3.music.126.net/iIZUxYR4bQrmnIRfj6OCsw==/109951168030252959.jpg?param=100y100">
+<a title="LONG TIME KNOW SEE" href="/album?id=154402046" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154402046" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="LONG TIME KNOW SEE" href="/album?id=154402046" class="s-fc0 tit">LONG TIME KNOW SEE</a></p>
+<p class="tit f-thide" title="KnowKnow">
+<a class="s-fc3" href="/artist?id=27868624">KnowKnow</a>
+</p></li>
+</ul>
+<ul class="f-cb roller-flag" style="left: 645px;">
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/D1SFObel_sAw_KMojvJZqw==/109951167999320860.jpg?param=100y100" src="http://p4.music.126.net/D1SFObel_sAw_KMojvJZqw==/109951167999320860.jpg?param=100y100">
+<a title="すずめの戸締まり" href="/album?id=153778832" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="153778832" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="すずめの戸締まり" href="/album?id=153778832" class="s-fc0 tit">すずめの戸締まり</a></p>
+<p class="tit f-thide" title="RADWIMPS / 陣内一真">
+<a class="s-fc3" href="/artist?id=21132">RADWIMPS</a>
+&nbsp;/&nbsp;
+<a class="s-fc3" href="/artist?id=938076">陣内一真</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p4.music.126.net/GN11ZWsb1hAfgrl4PZZwBQ==/109951168021763482.jpg?param=100y100" src="http://p4.music.126.net/GN11ZWsb1hAfgrl4PZZwBQ==/109951168021763482.jpg?param=100y100">
+<a title="SMITHEREENS" href="/album?id=154196686" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154196686" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="SMITHEREENS" href="/album?id=154196686" class="s-fc0 tit">SMITHEREENS</a></p>
+<p class="tit f-thide" title="Joji">
+<a class="s-fc3" href="/artist?id=12203295">Joji</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/5zcBynCRT4bc_6hjb_WLPg==/109951168029431605.jpg?param=100y100" src="http://p3.music.126.net/5zcBynCRT4bc_6hjb_WLPg==/109951168029431605.jpg?param=100y100">
+<a title="Her Loss" href="/album?id=154386904" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154386904" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Her Loss" href="/album?id=154386904" class="s-fc0 tit">Her Loss</a></p>
+<p class="tit f-thide" title="Drake / 21 Savage">
+<a class="s-fc3" href="/artist?id=53283">Drake</a>
+&nbsp;/&nbsp;
+<a class="s-fc3" href="/artist?id=12062134">21 Savage</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/HC0qtLUr3ciQSo-_q9SvwA==/109951168018756524.jpg?param=100y100" src="http://p3.music.126.net/HC0qtLUr3ciQSo-_q9SvwA==/109951168018756524.jpg?param=100y100">
+<a title="TOTEM（图腾）" href="/album?id=154132262" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="154132262" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="TOTEM（图腾）" href="/album?id=154132262" class="s-fc0 tit">TOTEM（图腾）</a></p>
+<p class="tit f-thide" title="刘思鉴">
+<a class="s-fc3" href="/artist?id=12798217">刘思鉴</a>
+</p></li>
+<li>
+<div class="u-cover u-cover-alb1">
+<img class="j-img" data-src="http://p3.music.126.net/PIJYDxirhadM3xpHn6yMmQ==/109951168069972335.jpg?param=100y100" src="http://p3.music.126.net/PIJYDxirhadM3xpHn6yMmQ==/109951168069972335.jpg?param=100y100">
+<a title="Midnights (3am Edition)" href="/album?id=153345099" class="msk"></a>
+<a href="javascript:;" class="icon-play f-alpha f-fr" title="播放" data-res-type="19" data-res-id="153345099" data-res-action="play"></a>
+</div>
+<p class="f-thide"><a title="Midnights (3am Edition)" href="/album?id=153345099" class="s-fc0 tit">Midnights (3am Edition)</a></p>
+<p class="tit f-thide" title="Taylor Swift">
+<a class="s-fc3" href="/artist?id=44266">Taylor Swift</a>
+</p></li>
+</ul>
+</div>
+<a hidefocus="true" href="#" class="click-flag nxt s-bg s-bg-8 f-tdn">&nbsp;</a>
+</div>
+</div>
+</div>
+<div class="n-bill">
+<div class="v-hd2">
+<a href="/discover/toplist" class="tit f-ff2 f-tdn">榜单</a>
+<span class="more"><a href="/discover/toplist" class="s-fc3">更多</a><i class="cor s-bg s-bg-6">&nbsp;</i></span>
+</div>
+<div class="n-bilst" id="top-flag">
+<dl class="blk ">
+<dt class="top">
+<div class="cver u-cover u-cover-4">
+<img class="j-img" data-src="http://p4.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?param=100y100" src="http://p4.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?param=100y100">
+<a href="/discover/toplist?id=19723756" class="msk" title="飙升榜"></a>
+</div>
+<div class="tit">
+<a href="/discover/toplist?id=19723756" title="飙升榜"><h3 class="f-fs1 f-thide">飙升榜</h3></a>
+<div class="btn">
+<a href="javascript:;" class="s-bg s-bg-9 f-tdn" hidefocus="true" title="播放" data-res-type="13" data-res-id="19723756" data-res-action="play" data-res-from="31" data-res-data="19723756">播放</a>
+<a href="javascript:;" hidefocus="true" class="s-bg s-bg-10 f-tdn subscribe-flag " data-plid="19723756" title="收藏">收藏</a>
+</div>
+</div>
+</dt>
+<dd>
+<ol>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no no-top">1</span>
+<a href="/song?id=1994955842" class="nm s-fc0 f-thide" title="海のまにまに">海のまにまに</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1994955842" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1994955842" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1994955842" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no no-top">2</span>
+<a href="/song?id=1998922131" class="nm s-fc0 f-thide" title="惊奇无限假期 A-T-V">惊奇无限假期 A-T-V</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1998922131" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1998922131" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1998922131" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no no-top">3</span>
+<a href="/song?id=1992727103" class="nm s-fc0 f-thide" title="病态">病态</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1992727103" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1992727103" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1992727103" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">4</span>
+<a href="/song?id=1992997073" class="nm s-fc0 f-thide" title="午夜恰恰">午夜恰恰</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1992997073" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1992997073" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1992997073" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">5</span>
+<a href="/song?id=1979068123" class="nm s-fc0 f-thide" title="解释">解释</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1979068123" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1979068123" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1979068123" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">6</span>
+<a href="/song?id=1989430006" class="nm s-fc0 f-thide" title="原谅">原谅</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1989430006" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1989430006" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1989430006" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">7</span>
+<a href="/song?id=344418" class="nm s-fc0 f-thide" title="我知道">我知道</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="344418" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="344418" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="10" data-res-fee="1" data-res-type="18" data-res-id="344418" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">8</span>
+<a href="/song?id=1999527595" class="nm s-fc0 f-thide" title="Tukoh Taka (Official FFF Anthem)">Tukoh Taka (Official FFF Anthem)</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1999527595" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1999527595" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1999527595" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">9</span>
+<a href="/song?id=1998931166" class="nm s-fc0 f-thide" title="追光的人">追光的人</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1998931166" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1998931166" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1998931166" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">10</span>
+<a href="/song?id=1996470992" class="nm s-fc0 f-thide" title="Extremes">Extremes</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1996470992" data-res-action="play" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1996470992" data-res-action="addto" data-res-from="31" data-res-data="19723756"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1996470992" data-res-action="subscribe"></a>
+</div>
+</li>
+</ol>
+<div class="more"><a href="/discover/toplist?id=19723756" class="s-fc0">查看全部&gt;</a></div>
+</dd>
+</dl>
+<dl class="blk ">
+<dt class="top">
+<div class="cver u-cover u-cover-4">
+<img class="j-img" data-src="http://p4.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?param=100y100" src="http://p4.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?param=100y100">
+<a href="/discover/toplist?id=3779629" class="msk" title="新歌榜"></a>
+</div>
+<div class="tit">
+<a href="/discover/toplist?id=3779629" title="新歌榜"><h3 class="f-fs1 f-thide">新歌榜</h3></a>
+<div class="btn">
+<a href="javascript:;" class="s-bg s-bg-9 f-tdn" hidefocus="true" title="播放" data-res-type="13" data-res-id="3779629" data-res-action="play" data-res-from="31" data-res-data="3779629">播放</a>
+<a href="javascript:;" hidefocus="true" class="s-bg s-bg-10 f-tdn subscribe-flag " data-plid="3779629" title="收藏">收藏</a>
+</div>
+</div>
+</dt>
+<dd>
+<ol>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no no-top">1</span>
+<a href="/song?id=1983464993" class="nm s-fc0 f-thide" title="狂恋">狂恋</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1983464993" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1983464993" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1983464993" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no no-top">2</span>
+<a href="/song?id=1994863874" class="nm s-fc0 f-thide" title="回答">回答</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1994863874" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1994863874" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1994863874" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no no-top">3</span>
+<a href="/song?id=1992083081" class="nm s-fc0 f-thide" title="达尔文·2022">达尔文·2022</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1992083081" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1992083081" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1992083081" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">4</span>
+<a href="/song?id=1995174272" class="nm s-fc0 f-thide" title="那么骄傲">那么骄傲</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1995174272" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1995174272" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1995174272" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">5</span>
+<a href="/song?id=1989423797" class="nm s-fc0 f-thide" title="骂醒我·2022">骂醒我·2022</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1989423797" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1989423797" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1989423797" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">6</span>
+<a href="/song?id=1998929575" class="nm s-fc0 f-thide" title="人啊人">人啊人</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1998929575" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1998929575" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1998929575" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">7</span>
+<a href="/song?id=1995339514" class="nm s-fc0 f-thide" title="写不来情歌">写不来情歌</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1995339514" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1995339514" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1995339514" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">8</span>
+<a href="/song?id=1992338319" class="nm s-fc0 f-thide" title="再见我的女孩">再见我的女孩</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1992338319" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1992338319" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1992338319" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">9</span>
+<a href="/song?id=1994328481" class="nm s-fc0 f-thide" title="当爱在靠近（烟嗓）">当爱在靠近（烟嗓）</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1994328481" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1994328481" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1994328481" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''">
+<span class="no">10</span>
+<a href="/song?id=1992997073" class="nm s-fc0 f-thide" title="午夜恰恰">午夜恰恰</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1992997073" data-res-action="play" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1992997073" data-res-action="addto" data-res-from="31" data-res-data="3779629"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1992997073" data-res-action="subscribe"></a>
+</div>
+</li>
+</ol>
+<div class="more"><a href="/discover/toplist?id=3779629" class="s-fc0">查看全部&gt;</a></div>
+</dd>
+</dl>
+<dl class="blk blk-1">
+<dt class="top">
+<div class="cver u-cover u-cover-4">
+<img class="j-img" data-src="http://p4.music.126.net/iFZ_nw2V86IFk90dc50kdQ==/109951166961388699.jpg?param=100y100" src="http://p4.music.126.net/iFZ_nw2V86IFk90dc50kdQ==/109951166961388699.jpg?param=100y100">
+<a href="/discover/toplist?id=2884035" class="msk" title="原创榜"></a>
+</div>
+<div class="tit">
+<a href="/discover/toplist?id=2884035" title="原创榜"><h3 class="f-fs1 f-thide">原创榜</h3></a>
+<div class="btn">
+<a href="javascript:;" class="s-bg s-bg-9 f-tdn" hidefocus="true" title="播放" data-res-type="13" data-res-id="2884035" data-res-action="play" data-res-from="31" data-res-data="2884035">播放</a>
+<a href="javascript:;" hidefocus="true" class="s-bg s-bg-10 f-tdn subscribe-flag " data-plid="2884035" title="收藏">收藏</a>
+</div>
+</div>
+</dt>
+<dd>
+<ol>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no no-top">1</span>
+<a href="/song?id=1997537240" class="nm s-fc0 f-thide" title="我回来了">我回来了</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1997537240" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1997537240" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1997537240" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no no-top">2</span>
+<a href="/song?id=1996585497" class="nm s-fc0 f-thide" title="不晚">不晚</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1996585497" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1996585497" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1996585497" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no no-top">3</span>
+<a href="/song?id=1996577914" class="nm s-fc0 f-thide" title="只爱我自己">只爱我自己</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1996577914" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1996577914" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1996577914" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">4</span>
+<a href="/song?id=1998344984" class="nm s-fc0 f-thide" title="陪你看流星">陪你看流星</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1998344984" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1998344984" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1998344984" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">5</span>
+<a href="/song?id=1996830524" class="nm s-fc0 f-thide" title="这首歌要单曲循环好多遍">这首歌要单曲循环好多遍</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1996830524" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1996830524" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1996830524" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">6</span>
+<a href="/song?id=1997509373" class="nm s-fc0 f-thide" title="海的女儿">海的女儿</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1997509373" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1997509373" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1997509373" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">7</span>
+<a href="/song?id=1997195143" class="nm s-fc0 f-thide" title="躺着的人生（Live）">躺着的人生（Live）</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1997195143" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1997195143" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1997195143" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">8</span>
+<a href="/song?id=1997223350" class="nm s-fc0 f-thide" title="蝴蝶，姐姐，和歌">蝴蝶，姐姐，和歌</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1997223350" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1997223350" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1997223350" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">9</span>
+<a href="/song?id=1996332662" class="nm s-fc0 f-thide" title="故事">故事</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1996332662" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1996332662" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1996332662" data-res-action="subscribe"></a>
+</div>
+</li>
+<li onmouseover="this.className='z-hvr'" onmouseout="this.className=''" class="">
+<span class="no">10</span>
+<a href="/song?id=1998444702" class="nm s-fc0 f-thide" title="滴滴答答">滴滴答答</a>
+<div class="oper">
+<a href="#" class="s-bg s-bg-11" title="播放" hidefocus="true" data-res-type="18" data-res-id="1998444702" data-res-action="play" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="u-icn u-icn-81" title="添加到播放列表" hidefocus="true" data-res-type="18" data-res-id="1998444702" data-res-action="addto" data-res-from="31" data-res-data="2884035"></a>
+<a href="#" class="s-bg s-bg-12" title="收藏" hidefocus="true" data-res-level="0" data-res-fee="8" data-res-type="18" data-res-id="1998444702" data-res-action="subscribe"></a>
+</div>
+</li>
+</ol>
+<div class="more"><a href="/discover/toplist?id=2884035" class="s-fc0">查看全部&gt;</a></div>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="g-sd1">
+<div class="n-user-profile"> <div class="n-myinfo n-myinfo-1 s-bg s-bg-1"><p class="note s-fc3">登录网易云音乐，可以享受无限收藏的乐趣，并且无限同步到手机</p><a id="index-enter-default" href="#" onclick="top.login();return false;" class="btn s-bg s-bg-2 f-tdn" tabindex="1">用户登录</a></div></div>
+<div class="n-singer">
+<h3 class="v-hd3">
+<span class="f-fl">入驻歌手</span>
+<a href="/discover/artist/signed/" class="more s-fc3">查看全部 &gt;</a>
+</h3>
+<ul class="n-enter f-cb" id="singer-list">
+<li>
+<a href="/user/home?id=29879272" class="itm f-tdn">
+<div class="head"><img class="j-img" src="http://p1.music.126.net/rCsLFXha6SLis0tV7yZ5fA==/109951165588539704.jpg?param=62y62"></div>
+<div class="ifo">
+<h4><span class="nm f-fs1 f-ib f-thide">张惠妹aMEI</span></h4>
+<p class="f-thide s-fc3">台湾歌手张惠妹</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/user/home?id=650120" class="itm f-tdn">
+<div class="head"><img class="j-img" src="http://p1.music.126.net/TQZGbxp-xnJla-q7ii9z0A==/1364493985498917.jpg?param=62y62"></div>
+<div class="ifo">
+<h4><span class="nm f-fs1 f-ib f-thide">吴莫愁Momo</span></h4>
+<p class="f-thide s-fc3">《中国好声音》选手吴莫愁</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/user/home?id=198554" class="itm f-tdn">
+<div class="head"><img class="j-img" src="http://p1.music.126.net/ZEEvSOoXV7Dv2QEkqUN3zg==/109951165625860507.jpg?param=62y62"></div>
+<div class="ifo">
+<h4><span class="nm f-fs1 f-ib f-thide">孙楠</span></h4>
+<p class="f-thide s-fc3">歌手孙楠 代表作《你快回来》《燃烧》</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/user/home?id=2000268" class="itm f-tdn">
+<div class="head"><img class="j-img" src="http://p1.music.126.net/1GIlkxKmvKu66ufU83FyvA==/31885837222663.jpg?param=62y62"></div>
+<div class="ifo">
+<h4><span class="nm f-fs1 f-ib f-thide">麦田老狼</span></h4>
+<p class="f-thide s-fc3">歌手，音乐人。代表作《同桌的你》等。</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/user/home?id=39002" class="itm f-tdn">
+<div class="head"><img class="j-img" src="http://p1.music.126.net/MXMZYksJmsa0gcGkuk2mDQ==/109951167712155407.jpg?param=62y62"></div>
+<div class="ifo">
+<h4><span class="nm f-fs1 f-ib f-thide">陈楚生</span></h4>
+<p class="f-thide s-fc3">唱作歌手</p>
+</div>
+</a>
+</li>
+</ul>
+<div><a target="_blank" href="/recruit" hidefocus="true" class="u-btn2 u-btn2-1"><i>申请成为网易音乐人</i></a></div>
+</div>
+<div class="n-dj n-dj-1">
+<h3 class="v-hd3">热门主播</h3>
+<ul class="n-hotdj f-cb" id="hotdj-list">
+<li>
+<a href="/user/home?id=278438485" class="cver"><img class="j-img" src="http://p2.music.126.net/H3QxWdf0eUiwmhJvA4vrMQ==/1407374893913311.jpg?param=40y40" data-src="http://p2.music.126.net/H3QxWdf0eUiwmhJvA4vrMQ==/1407374893913311.jpg?param=40y40"></a>
+<div class="info">
+<p><a href="/user/home?id=278438485" class="nm-icn f-thide s-fc0">陈立</a> </p>
+<p class="f-thide s-fc3">心理学家、美食家陈立教授</p>
+</div>
+</li>
+<li>
+<a href="/user/home?id=559210341" class="cver"><img class="j-img" src="http://p2.music.126.net/GgXkjCzeH4rqPCsrkBV1kg==/109951164843970584.jpg?param=40y40" data-src="http://p2.music.126.net/GgXkjCzeH4rqPCsrkBV1kg==/109951164843970584.jpg?param=40y40"></a>
+<div class="info">
+<p><a href="/user/home?id=559210341" class="nm-icn f-thide s-fc0">刘维-Julius</a> </p>
+<p class="f-thide s-fc3">歌手、播客节目《维维道来》主理人</p>
+</div>
+</li>
+<li>
+<a href="/user/home?id=259292486" class="cver"><img class="j-img" src="http://p2.music.126.net/cKBFMV9toXn3qY9kqX6j9A==/109951168071041836.jpg?param=40y40" data-src="http://p2.music.126.net/cKBFMV9toXn3qY9kqX6j9A==/109951168071041836.jpg?param=40y40"></a>
+<div class="info">
+<p><a href="/user/home?id=259292486" class="nm-icn f-thide s-fc0">莫非定律乐团</a> </p>
+<p class="f-thide s-fc3">男女双人全创作独立乐团</p>
+</div>
+</li>
+<li>
+<a href="/user/home?id=1450418799" class="cver"><img class="j-img" src="http://p2.music.126.net/NHjNoFpLDEZ-3OR9h35z1w==/109951165825466770.jpg?param=40y40" data-src="http://p2.music.126.net/NHjNoFpLDEZ-3OR9h35z1w==/109951165825466770.jpg?param=40y40"></a>
+<div class="info">
+<p><a href="/user/home?id=1450418799" class="nm-icn f-thide s-fc0">碎嘴许美达</a> </p>
+<p class="f-thide s-fc3">脱口秀网络红人</p>
+</div>
+</li>
+<li>
+<a href="/user/home?id=2688170" class="cver"><img class="j-img" src="http://p2.music.126.net/CpUdHPNvBvN7kebvL21TTA==/109951163676573083.jpg?param=40y40" data-src="http://p2.music.126.net/CpUdHPNvBvN7kebvL21TTA==/109951163676573083.jpg?param=40y40"></a>
+<div class="info">
+<p><a href="/user/home?id=2688170" class="nm-icn f-thide s-fc0">银临Rachel</a> </p>
+<p class="f-thide s-fc3"></p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>

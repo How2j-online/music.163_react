@@ -1,0 +1,2 @@
+export const CHANGE_TO_PLAYER = 'player/CHANGE_TO_PLAYER';
+export const CHANGE_TO_CURRENT_TIME = 'player/CHANGE_TO_CURRENT_TIME';

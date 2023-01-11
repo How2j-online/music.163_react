@@ -1,0 +1,717 @@
+{
+  "songFeature": [
+    {
+      "title": "飙升榜",
+      "imgUrl": "http://p1.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?param=40y40",
+      "message": "刚刚更新"
+    },
+    {
+      "title": "新歌榜",
+      "imgUrl": "http://p1.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?param=40y40",
+      "message": "刚刚更新"
+    },
+    {
+      "title": "原创榜",
+      "imgUrl": "http://p1.music.126.net/iFZ_nw2V86IFk90dc50kdQ==/109951166961388699.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "热歌榜",
+      "imgUrl": "http://p1.music.126.net/ZyUjc7K_GDpD8MO1-GQkmA==/109951166952706664.jpg?param=40y40",
+      "message": "更新17首"
+    }
+  ],
+  "globalMedia": [
+    {
+      "title": "黑胶VIP爱听榜",
+      "imgUrl": "http://p1.music.126.net/7dAhIc3TLEpuTf1QhB5_bA==/109951167805849445.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "云音乐说唱榜",
+      "imgUrl": "http://p1.music.126.net/xNnQzUODQs50SJ2Sm4IVVA==/109951167976981051.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "云音乐古典榜",
+      "imgUrl": "http://p1.music.126.net/urByD_AmfBDBrs7fA9-O8A==/109951167976973225.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "云音乐电音榜",
+      "imgUrl": "http://p1.music.126.net/72_kRo61hL1Y9Dmwo_5Vug==/109951167976977687.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "云音乐ACG榜",
+      "imgUrl": "http://p1.music.126.net/na1kEeCS1iZEkzOrs9r_9g==/109951167976973667.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "云音乐韩语榜",
+      "imgUrl": "http://p1.music.126.net/5oN9YaFznwNGXkmi8i2Ytw==/109951167430864741.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "云音乐国电榜",
+      "imgUrl": "http://p1.music.126.net/6la5fQwcd3YW6ZQHvTiZqw==/109951165611482698.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "UK排行榜周榜",
+      "imgUrl": "http://p1.music.126.net/fhAqiflLy3eU-ldmBQByrg==/109951165613082765.jpg?param=40y40",
+      "message": "每周一更新"
+    },
+    {
+      "title": "美国Billboard榜",
+      "imgUrl": "http://p1.music.126.net/rwRsVIJHQ68gglhA6TNEYA==/109951165611413732.jpg?param=40y40",
+      "message": "每周三更新"
+    },
+    {
+      "title": "Beatport全球电子舞曲榜",
+      "imgUrl": "http://p1.music.126.net/oT-RHuPBJiD7WMoU7WG5Rw==/109951166093489621.jpg?param=40y40",
+      "message": "每周三更新"
+    },
+    {
+      "title": "KTV唛榜",
+      "imgUrl": "http://p1.music.126.net/5wDP78s43ydVTKt62C8OjQ==/109951165613100063.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "日本Oricon榜",
+      "imgUrl": "http://p1.music.126.net/aXUPgImt8hhf4cMUZEjP4g==/109951165611417794.jpg?param=40y40",
+      "message": "每周三更新"
+    },
+    {
+      "title": "云音乐欧美热歌榜",
+      "imgUrl": "http://p1.music.126.net/70_EO_Dc7NT_hhfvsapzcQ==/109951167430862162.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "云音乐欧美新歌榜",
+      "imgUrl": "http://p1.music.126.net/0lPWpI9Ejn1OiW2LSbg-qw==/109951167430863224.jpg?param=40y40",
+      "message": "刚刚更新"
+    },
+    {
+      "title": "法国 NRJ Vos Hits 周榜",
+      "imgUrl": "http://p1.music.126.net/-fyzrPWd06FfWl_0JDAxMQ==/109951165613108584.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "云音乐ACG动画榜",
+      "imgUrl": "http://p1.music.126.net/SkGlKQ6acixthb77VlD9eQ==/109951164432300406.jpg?param=40y40",
+      "message": "更新68首"
+    },
+    {
+      "title": "云音乐ACG游戏榜",
+      "imgUrl": "http://p1.music.126.net/hivOOHMwEmnn9s_6rgZwEQ==/109951164432303700.jpg?param=40y40",
+      "message": "更新78首"
+    },
+    {
+      "title": "云音乐ACG VOCALOID榜",
+      "imgUrl": "http://p1.music.126.net/Ag7RyRCYiINcd9EtRXf6xA==/109951164432303690.jpg?param=40y40",
+      "message": "更新61首"
+    },
+    {
+      "title": "中国新乡村音乐排行榜",
+      "imgUrl": "http://p1.music.126.net/_3PD8PcncjtWE0l8WpACGA==/109951165613110607.jpg?param=40y40",
+      "message": "双周四更新"
+    },
+    {
+      "title": "云音乐日语榜",
+      "imgUrl": "http://p1.music.126.net/YFBFNI2F-4BveUpv6FKFuw==/109951167430864069.jpg?param=40y40",
+      "message": "每周二更新"
+    },
+    {
+      "title": "云音乐摇滚榜",
+      "imgUrl": "http://p1.music.126.net/UsoWOvtgwBgrofCCfS61Fw==/109951167976981586.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "云音乐国风榜",
+      "imgUrl": "http://p1.music.126.net/feephAx75BzYKSep3ivx9w==/109951167953810685.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "潜力爆款榜",
+      "imgUrl": "http://p2.music.126.net/Mi4QPklg1mtbWAfq74tEqQ==/109951165498334721.jpg?param=40y40",
+      "message": "每周一更新"
+    },
+    {
+      "title": "云音乐民谣榜",
+      "imgUrl": "http://p2.music.126.net/tC07mYGr0t2xz07xoHQhrQ==/109951167976973429.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "听歌识曲榜",
+      "imgUrl": "http://p2.music.126.net/wJVUAiUuykKk7yGbQxDBug==/109951167430857712.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "网络热歌榜",
+      "imgUrl": "http://p2.music.126.net/iwhTcAbujlsvhSNWYkBC8Q==/109951167430851785.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "俄语榜",
+      "imgUrl": "http://p2.music.126.net/HbJ0BK5doY4I4pEMY6-FQw==/109951167430852698.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "越南语榜",
+      "imgUrl": "http://p2.music.126.net/N-Y5maLGWgrowt3TE6RtSg==/109951167430857045.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "中文DJ榜",
+      "imgUrl": "http://p2.music.126.net/w_01BfDU012ojxnzLO6tYw==/109951167977358686.jpg?param=40y40",
+      "message": "刚刚更新"
+    },
+    {
+      "title": "俄罗斯top hit流行音乐榜",
+      "imgUrl": "http://p2.music.126.net/KLVO8PxVZzOoLdWQQNyprA==/109951166327316568.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "泰语榜",
+      "imgUrl": "http://p2.music.126.net/4W0WBHBgwYlYfRniuyL47A==/109951167430843284.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "BEAT排行榜",
+      "imgUrl": "http://p2.music.126.net/yhzlQJCJ9NcT4MvJBG_HgQ==/109951167977014958.jpg?param=40y40",
+      "message": "每周四更新"
+    },
+    {
+      "title": "编辑推荐榜VOL.25 蕾哈娜第二首《黑豹》原声公开！",
+      "imgUrl": "http://p2.music.126.net/gBV8cVZc-VLxh0miq3eZtw==/109951168069917234.jpg?param=40y40",
+      "message": "每周五更新"
+    },
+    {
+      "title": "LOOK直播歌曲榜",
+      "imgUrl": "http://p2.music.126.net/u-RQC-LyY0aoeseRumJ14A==/109951167977730469.jpg?param=40y40",
+      "message": "每周二更新"
+    },
+    {
+      "title": "中文原创歌曲榜",
+      "imgUrl": "http://p2.music.126.net/M9ACj2HRucdhjAvC7YlU9g==/109951167977179287.jpg?param=40y40",
+      "message": "每周五更新"
+    }
+  ],
+  "songListData": {
+    "title": "飙升榜",
+    "songListImg": "http://p1.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?param=150y150",
+    "updateTime": "最近更新：11月20日",
+    "collectionCount": "(3989789)",
+    "songShareCount": "(13218)",
+    "songCommentCount": "215741",
+    "songList": {
+      "songListPlayCount": "5266924544",
+      "songList": [
+        {
+          "songName": "紫荆花盛开 - (香港回归祖国25周年主题歌曲)",
+          "songTime": "03:30",
+          "songAuthor": "李荣浩/梁咏琪",
+          "songImg": "http://p3.music.126.net/R7yzr15Ftp4Mf59kTvy_uA==/109951167605022957.jpg?param=50y50&quality=100"
+        },
+        {
+          "songName": "绯红 - (「爱，宇宙，玫瑰花」音乐企划)",
+          "songTime": "04:15",
+          "songAuthor": "桃德李Todd Li",
+          "songImg": "http://p4.music.126.net/sGaip_RVUeZ7lhneBlekJg==/109951168067794849.jpg?param=50y50&quality=100"
+        },
+        {
+          "songName": "逃生舱",
+          "songTime": "02:53",
+          "songAuthor": "老番茄",
+          "songImg": "http://p3.music.126.net/X_0GXyHnMowwmdMviMtoMA==/109951168067824844.jpg?param=50y50&quality=100"
+        },
+        {
+          "songName": "把回忆拼好给你",
+          "songTime": "06:21",
+          "songAuthor": "王贰浪"
+        },
+        {
+          "songName": "慢游",
+          "songTime": "04:33",
+          "songAuthor": "房东的猫"
+        },
+        {
+          "songName": "达尔文·2022",
+          "songTime": "03:16",
+          "songAuthor": "yihuik苡慧"
+        },
+        {
+          "songName": "那么骄傲 - (致女孩)",
+          "songTime": "03:17",
+          "songAuthor": "Bell玲惠"
+        },
+        {
+          "songName": "蝴蝶，姐姐，和歌",
+          "songTime": "04:47",
+          "songAuthor": "Panta.Q 郭曲/谭维维"
+        },
+        {
+          "songName": "群青",
+          "songTime": "04:08",
+          "songAuthor": "YOASOBI"
+        },
+        {
+          "songName": "流动的盛宴 (Hierarchy)",
+          "songTime": "04:55",
+          "songAuthor": "沈以诚"
+        },
+        {
+          "songName": "DaDiDa",
+          "songTime": "02:59",
+          "songAuthor": "李斯丹妮"
+        },
+        {
+          "songName": "当爱在靠近（烟嗓） - (每一次当爱在靠近)",
+          "songTime": "03:29",
+          "songAuthor": "烟(许佳豪)"
+        },
+        {
+          "songName": "骗子",
+          "songTime": "03:52",
+          "songAuthor": "文夫"
+        },
+        {
+          "songName": "你（正式版）",
+          "songTime": "04:27",
+          "songAuthor": "郑润泽"
+        },
+        {
+          "songName": "反正 - (狮子座幻想曲)",
+          "songTime": "03:11",
+          "songAuthor": "老番茄"
+        },
+        {
+          "songName": "分寸感",
+          "songTime": "03:34",
+          "songAuthor": "BigYear大年/MoreLearn 27"
+        },
+        {
+          "songName": "夜车",
+          "songTime": "03:13",
+          "songAuthor": "刘大拿"
+        },
+        {
+          "songName": "解释",
+          "songTime": "03:44",
+          "songAuthor": "王贰浪"
+        },
+        {
+          "songName": "是否",
+          "songTime": "03:41",
+          "songAuthor": "程响"
+        },
+        {
+          "songName": "Bones",
+          "songTime": "02:45",
+          "songAuthor": "Imagine Dragons"
+        },
+        {
+          "songName": "海的女儿",
+          "songTime": "04:08",
+          "songAuthor": "花粥"
+        },
+        {
+          "songName": "天若有情",
+          "songTime": "04:18",
+          "songAuthor": "高杰杰杰杰"
+        },
+        {
+          "songName": "Slow Down - (放缓)",
+          "songTime": "03:23",
+          "songAuthor": "Madnap/Pauline Herr"
+        },
+        {
+          "songName": "我看了56次日落",
+          "songTime": "03:00",
+          "songAuthor": "EN route-T"
+        },
+        {
+          "songName": "The Best Of Me",
+          "songTime": "04:33",
+          "songAuthor": "Dion Timmer/The Arcturians"
+        },
+        {
+          "songName": "倒数",
+          "songTime": "03:49",
+          "songAuthor": "G.E.M.邓紫棋"
+        },
+        {
+          "songName": "Illusion",
+          "songTime": "03:04",
+          "songAuthor": "Matilda"
+        },
+        {
+          "songName": "找到北了 - (《王牌竞速》漠河赛季主题曲)",
+          "songTime": "03:48",
+          "songAuthor": "封茗囧菌"
+        },
+        {
+          "songName": "愛？",
+          "songTime": "02:11",
+          "songAuthor": "Seto"
+        },
+        {
+          "songName": "当爱在靠近",
+          "songTime": "04:10",
+          "songAuthor": "刘若英"
+        },
+        {
+          "songName": "你 - (你就像风在说话 顺着我方向)",
+          "songTime": "03:36",
+          "songAuthor": "吴益红"
+        },
+        {
+          "songName": "Scopin",
+          "songTime": "01:41",
+          "songAuthor": "Kordhell"
+        },
+        {
+          "songName": "I'll Be Waiting...",
+          "songTime": "02:49",
+          "songAuthor": "Pearl"
+        },
+        {
+          "songName": "Stray（慢速） - (后来我们走到那片海)",
+          "songTime": "03:44",
+          "songAuthor": "江辰/王朝"
+        },
+        {
+          "songName": "神秘关系",
+          "songTime": "03:38",
+          "songAuthor": "Fine乐团"
+        },
+        {
+          "songName": "镜中花",
+          "songTime": "03:30",
+          "songAuthor": "任子墨/HIGH5-马思涵SAI"
+        },
+        {
+          "songName": "多想还小",
+          "songTime": "02:23",
+          "songAuthor": "大漂亮"
+        },
+        {
+          "songName": "クロノスタシス - (剧场版《名侦探柯南:万圣节的新娘》主题曲)",
+          "songTime": "05:39",
+          "songAuthor": "BUMP OF CHICKEN"
+        },
+        {
+          "songName": "マイレージ - (里程)",
+          "songTime": "02:50",
+          "songAuthor": "平井 大"
+        },
+        {
+          "songName": "会呼吸的痛 - (吉他女生版)",
+          "songTime": "04:14",
+          "songAuthor": "林宝馨"
+        },
+        {
+          "songName": "All For Love",
+          "songTime": "03:00",
+          "songAuthor": "Tungevaag & Raaban"
+        },
+        {
+          "songName": "孤雏",
+          "songTime": "04:53",
+          "songAuthor": "AGA"
+        },
+        {
+          "songName": "饲育",
+          "songTime": "02:10",
+          "songAuthor": "BOBBYNOPEACE"
+        },
+        {
+          "songName": "Hate U Sometimes",
+          "songTime": "02:59",
+          "songAuthor": "Caly Bevier"
+        },
+        {
+          "songName": "NIGHT DANCER",
+          "songTime": "03:30",
+          "songAuthor": "imase"
+        },
+        {
+          "songName": "Outside - (局外人)",
+          "songTime": "03:47",
+          "songAuthor": "Calvin Harris/Ellie Goulding"
+        },
+        {
+          "songName": "The job song - (不想上班之歌)",
+          "songTime": "02:58",
+          "songAuthor": "贝卡"
+        },
+        {
+          "songName": "Shadow of the Sun",
+          "songTime": "02:25",
+          "songAuthor": "Max Elto"
+        },
+        {
+          "songName": "Hayya Hayya (Better Together) (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) - (2022卡塔尔世界杯原声)",
+          "songTime": "03:26",
+          "songAuthor": "Trinidad Cardona/DaVido/Aisha"
+        },
+        {
+          "songName": "触碰不到的你(Live) - (我是唱作人2第九期)",
+          "songTime": "04:02",
+          "songAuthor": "余佳运"
+        },
+        {
+          "songName": "Back to Me",
+          "songTime": "03:34",
+          "songAuthor": "Vanotek/Eneli"
+        },
+        {
+          "songName": "不错过",
+          "songTime": "03:27",
+          "songAuthor": "杜宣达"
+        },
+        {
+          "songName": "最好的安排",
+          "songTime": "04:10",
+          "songAuthor": "曲婉婷"
+        },
+        {
+          "songName": "等风吹",
+          "songTime": "02:58",
+          "songAuthor": "LBI利比"
+        },
+        {
+          "songName": "Waka Waka (This Time for Africa) - (2010年南非世界杯主题曲)",
+          "songTime": "03:22",
+          "songAuthor": "Shakira/Freshlyground"
+        },
+        {
+          "songName": "玫瑰",
+          "songTime": "03:35",
+          "songAuthor": "韩尚霏"
+        },
+        {
+          "songName": "magnolia",
+          "songTime": "02:19",
+          "songAuthor": "keshi"
+        },
+        {
+          "songName": "人生海海 - (旧皮箱)",
+          "songTime": "04:06",
+          "songAuthor": "逆时针向/Swang多雷/颜丙沂"
+        },
+        {
+          "songName": "Typa Girl",
+          "songTime": "02:59",
+          "songAuthor": "BLACKPINK"
+        },
+        {
+          "songName": "Rosè",
+          "songTime": "02:52",
+          "songAuthor": "kinkis"
+        },
+        {
+          "songName": "我知道你",
+          "songTime": "04:03",
+          "songAuthor": "励阳/徐君"
+        },
+        {
+          "songName": "C.R.U.E.L (feat.Lambert)",
+          "songTime": "02:43",
+          "songAuthor": "石玺彤/Lambert"
+        },
+        {
+          "songName": "当爱在靠近",
+          "songTime": "03:21",
+          "songAuthor": "余超颖"
+        },
+        {
+          "songName": "Apex",
+          "songTime": "03:26",
+          "songAuthor": "Far Out"
+        },
+        {
+          "songName": "我是真的爱上你",
+          "songTime": "05:02",
+          "songAuthor": "王杰"
+        },
+        {
+          "songName": "最",
+          "songTime": "04:38",
+          "songAuthor": "9iay"
+        },
+        {
+          "songName": "Close Eyes",
+          "songTime": "02:12",
+          "songAuthor": "DVRST"
+        },
+        {
+          "songName": "Beside Me",
+          "songTime": "03:28",
+          "songAuthor": "Spylent"
+        },
+        {
+          "songName": "我走",
+          "songTime": "03:08",
+          "songAuthor": "LBI利比"
+        },
+        {
+          "songName": "Underground",
+          "songTime": "04:24",
+          "songAuthor": "Lindsey Stirling"
+        },
+        {
+          "songName": "Call of Silence - (沉默的呼唤)",
+          "songTime": "02:21",
+          "songAuthor": "Eternal Raijin"
+        },
+        {
+          "songName": "FATALITY",
+          "songTime": "02:09",
+          "songAuthor": "Kordhell"
+        },
+        {
+          "songName": "不该",
+          "songTime": "04:46",
+          "songAuthor": "王艺wy/关小乔peace"
+        },
+        {
+          "songName": "Shut Down",
+          "songTime": "02:55",
+          "songAuthor": "BLACKPINK"
+        },
+        {
+          "songName": "没头脑和不高兴",
+          "songTime": "03:38",
+          "songAuthor": "洛少爷"
+        },
+        {
+          "songName": "如果____我一定____",
+          "songTime": "02:10",
+          "songAuthor": "HOPERUI"
+        },
+        {
+          "songName": "Steps (Extended Mix) - (迈步)",
+          "songTime": "03:03",
+          "songAuthor": "Krimsonn"
+        },
+        {
+          "songName": "改变自己",
+          "songTime": "03:14",
+          "songAuthor": "王力宏"
+        },
+        {
+          "songName": "Ignite",
+          "songTime": "03:30",
+          "songAuthor": "K-391/Alan Walker/Julie Bergan/胜利"
+        },
+        {
+          "songName": "gone",
+          "songTime": "02:42",
+          "songAuthor": "convolk"
+        },
+        {
+          "songName": "Drive Forever - (位置)",
+          "songTime": "02:25",
+          "songAuthor": "T3nzu"
+        },
+        {
+          "songName": "Sweetly",
+          "songTime": "02:15",
+          "songAuthor": "Lord Kael"
+        },
+        {
+          "songName": "나쁜년 - (BIBI Vengeance)",
+          "songTime": "02:45",
+          "songAuthor": "BIBI"
+        },
+        {
+          "songName": "倒映",
+          "songTime": "03:15",
+          "songAuthor": "Double Y z"
+        },
+        {
+          "songName": "나의 모든 이들에게 - (对我的所有人说)",
+          "songTime": "02:19",
+          "songAuthor": "贝卡"
+        },
+        {
+          "songName": "赌博默示录",
+          "songTime": "02:38",
+          "songAuthor": "Bo Peep"
+        },
+        {
+          "songName": "给我一个理由忘记",
+          "songTime": "04:45",
+          "songAuthor": "黄丽玲"
+        },
+        {
+          "songName": "Go Again (feat. ELYSA) (Nightcore Edit)",
+          "songTime": "02:46",
+          "songAuthor": "King CAAN/Elysa"
+        },
+        {
+          "songName": "海の形",
+          "songTime": "04:10",
+          "songAuthor": "昙轩"
+        },
+        {
+          "songName": "最长的电影",
+          "songTime": "05:17",
+          "songAuthor": "茜拉"
+        },
+        {
+          "songName": "换乘点（Live）",
+          "songTime": "03:33",
+          "songAuthor": "旅行新蜜蜂"
+        },
+        {
+          "songName": "多远都要在一起 (Dub Mix)",
+          "songTime": "03:53",
+          "songAuthor": "G.E.M.邓紫棋"
+        },
+        {
+          "songName": "Night Before Christmas",
+          "songTime": "03:36",
+          "songAuthor": "Sam Smith"
+        },
+        {
+          "songName": "If I Could Draw Life - (若能描绘生命)",
+          "songTime": "03:22",
+          "songAuthor": "YOASOBI"
+        },
+        {
+          "songName": "老男孩",
+          "songTime": "03:42",
+          "songAuthor": "1个球"
+        },
+        {
+          "songName": "love yourself",
+          "songTime": "02:48",
+          "songAuthor": "CashTrippy/mac ova seas"
+        },
+        {
+          "songName": "既白梨",
+          "songTime": "02:31",
+          "songAuthor": "30年前，50年后"
+        },
+        {
+          "songName": "蝴蝶",
+          "songTime": "03:04",
+          "songAuthor": "Cas14/达芬奇/SOULFRESH BEATS"
+        },
+        {
+          "songName": "地球另一边",
+          "songTime": "02:28",
+          "songAuthor": "落安"
+        },
+        {
+          "songName": "Lose Control",
+          "songTime": "03:46",
+          "songAuthor": "Hedley"
+        }
+      ]
+    }
+  }
+}

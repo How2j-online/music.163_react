@@ -1,0 +1,45 @@
+{
+  "banner": [
+      {
+        "id": 1,
+        "title": "title1",
+        "url": "http://localhost:3000/banner/banner1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "title2",
+        "url": "http://localhost:3000/banner/banner2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "title3",
+        "url": "http://localhost:3000/banner/banner3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "title4",
+        "url": "http://localhost:3000/banner/banner4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "title5",
+        "url": "http://localhost:3000/banner/banner5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "title6",
+        "url": "http://localhost:3000/banner/banner6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "title7",
+        "url": "http://localhost:3000/banner/banner7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "title8",
+        "url": "http://localhost:3000/banner/banner8.jpg"
+      }
+    ],
+  "test": ["1231"]
+}

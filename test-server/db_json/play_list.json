@@ -1,0 +1,344 @@
+{
+  "classification": [
+    {
+      "classificationName": "语种",
+      "classificationGroup": [
+        "华语",
+        "欧美",
+        "日语",
+        "韩语",
+        "粤语"
+      ]
+    },
+    {
+      "classificationName": "风格",
+      "classificationGroup": [
+        "流行",
+        "摇滚",
+        "民谣",
+        "电子",
+        "舞曲",
+        "说唱",
+        "轻音乐",
+        "爵士",
+        "乡村",
+        "R&B/Soul",
+        "古典",
+        "民族",
+        "英伦",
+        "金属",
+        "朋克",
+        "蓝调",
+        "雷鬼",
+        "世界音乐",
+        "拉丁",
+        "New Age",
+        "古风",
+        "后摇",
+        "Bossa Nova"
+      ]
+    },
+    {
+      "classificationName": "场景",
+      "classificationGroup": [
+        "清晨",
+        "夜晚",
+        "学习",
+        "工作",
+        "午休",
+        "下午茶",
+        "地铁",
+        "驾车",
+        "运动",
+        "旅行",
+        "散步",
+        "酒吧"
+      ]
+    },
+    {
+      "classificationName": "情感",
+      "classificationGroup": [
+        "怀旧",
+        "清新",
+        "浪漫",
+        "伤感",
+        "治愈",
+        "放松",
+        "孤独",
+        "感动",
+        "兴奋",
+        "快乐",
+        "安静",
+        "思念"
+      ]
+    },
+    {
+      "classificationName": "主题",
+      "classificationGroup": [
+        "综艺",
+        "影视原声",
+        "ACG",
+        "儿童",
+        "校园",
+        "游戏",
+        "70后",
+        "80后",
+        "90后",
+        "网络歌曲",
+        "KTV",
+        "经典",
+        "翻唱",
+        "吉他",
+        "钢琴",
+        "器乐",
+        "榜单",
+        "00后"
+      ]
+    }
+  ],
+  "playList": [
+    {
+      "songName": "[阴天快乐] 如果情绪有天气 我陷在阴天里",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/WTCphsIlwcFvwtZLrgyaMg==/109951166586744659.jpg?param=140y140",
+      "songPlayCount": "1996万"
+    },
+    {
+      "songName": "Chill Time丨浸润于夜色中的一抹寂静",
+      "songAuthor": "丨IIIIIIIIII丨",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340194/0903/b735/7c7a/0dddcdf78047d397d24125840e54ab5b.png",
+      "songImage": "http://p2.music.126.net/L9o79rTIcDWczQSJtpU2Tg==/109951167933404557.jpg?param=140y140",
+      "songPlayCount": "36337"
+    },
+    {
+      "songName": "「蒸汽波/复古风」东京之夜的霓虹美学",
+      "songAuthor": "丨IIIIIIIIII丨",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340194/0903/b735/7c7a/0dddcdf78047d397d24125840e54ab5b.png",
+      "songImage": "http://p2.music.126.net/5E6EsFo46Ep21mViMi7D7Q==/109951166163288112.jpg?param=140y140",
+      "songPlayCount": "261万"
+    },
+    {
+      "songName": "[睡眠伴侣] 选首最合适你的 然后单曲循环 ",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/CmbQ14DMvVKmUTR4UejdAw==/109951166035763769.jpg?param=140y140",
+      "songPlayCount": "12854万"
+    },
+    {
+      "songName": "世界上很好听的纯音乐（经典不朽）",
+      "songAuthor": "橘子树风车",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340168/ccce/35dd/ab2d/1a7c8ee0f6bb1fc2760cbb570dfee34f.png",
+      "songImage": "http://p2.music.126.net/92NWlGo76ha-if-WMK3vCg==/1410673428769729.jpg?param=140y140",
+      "songPlayCount": "12783万"
+    },
+    {
+      "songName": "[运动随身听] 必听活力音乐燃料 今天运动了吗",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/LYvBQa263ypRaId-2k5OOA==/109951166035837252.jpg?param=140y140",
+      "songPlayCount": "8379万"
+    },
+    {
+      "songName": "[浪漫因子] 可以邀请你和我一起去春天吗",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/eZLpSsFLT0aOuYFbSpZ2UA==/109951167090878167.jpg?param=140y140",
+      "songPlayCount": "514万"
+    },
+    {
+      "songName": "高效率音乐 | 学习不是苦差事",
+      "songAuthor": "Tobby___",
+      "songImage": "http://p2.music.126.net/4hCpqWeNupK-7KbawyB-3w==/109951167330131366.jpg?param=140y140",
+      "songPlayCount": "553万"
+    },
+    {
+      "songName": "『猫咪喜欢的轻音乐』持续更新",
+      "songAuthor": "伊次心动",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340159/e2c1/6fb5/f49b/353e6d1857f7c5f46426beb533427e53.png",
+      "songImage": "http://p2.music.126.net/JcpOXM243FptA9tRYnPFlw==/109951167423159409.jpg?param=140y140",
+      "songPlayCount": "68万"
+    },
+    {
+      "songName": "[助眠雷雨声] 为你雨下一整晚",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/Mw3xbzgjt2TVNU3IJXdVVg==/109951166035756338.jpg?param=140y140",
+      "songPlayCount": "3535万"
+    },
+    {
+      "songName": "[青春点唱机] 你学生时代的MP3 每日更新30首",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/bOgMklDSnJhkZK9JdlA6aA==/109951165545358819.jpg?param=140y140",
+      "songPlayCount": "4235万"
+    },
+    {
+      "songName": "[聚精会神] 学习工作必备的背景音乐",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/o5Dehszc99cYe1HOxnHoTg==/109951165545418477.jpg?param=140y140",
+      "songPlayCount": "5824万"
+    },
+    {
+      "songName": "[大自然纯音] 纯净自然音乐伴你放松身心",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/zuCsw2OgrNwPGHQrhrhd-A==/109951166035702632.jpg?param=140y140",
+      "songPlayCount": "2170万"
+    },
+    {
+      "songName": "[K-pop练舞室] 音乐响起，你就是idol",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/3flXYtAnQ4AcKzZS5pfzuw==/109951167535454456.jpg?param=140y140",
+      "songPlayCount": "268万"
+    },
+    {
+      "songName": "[快乐工作指南] 烦恼清空，快乐办公",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/f1tpabx5DN_iEwsDnCEc8w==/109951167767653040.jpg?param=140y140",
+      "songPlayCount": "204万"
+    },
+    {
+      "songName": "正念净心之冥想调适",
+      "songAuthor": "云乡寻梦人",
+      "songImage": "http://p2.music.126.net/B0YtENYuA3HFki3Ht_TniA==/109951163469578210.jpg?param=140y140",
+      "songPlayCount": "206万"
+    },
+    {
+      "songName": "「轻音乐·安静」舒缓放松，缓解压力",
+      "songAuthor": "随身音乐厅",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340159/e2c1/6fb5/f49b/353e6d1857f7c5f46426beb533427e53.png",
+      "songImage": "http://p2.music.126.net/zQsuZvhJygPTFTM_FFnqhQ==/109951164139588912.jpg?param=140y140",
+      "songPlayCount": "1175万"
+    },
+    {
+      "songName": "[中文旋律说唱] 旋律与节奏撞出轻松惬意的时光",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/lfiWujOBKfXgpYj0qJx5SQ==/109951166201987161.jpg?param=140y140",
+      "songPlayCount": "626万"
+    },
+    {
+      "songName": "[想哭就哭吧] 用心酸情歌治愈破碎的心",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/owBtjpFAtUHkO8b_qZh5rA==/109951167536079670.jpg?param=140y140",
+      "songPlayCount": "260万"
+    },
+    {
+      "songName": "[时光点唱机] 经典老歌带你重回90年代 每日30首",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/pVvV_8uElrMaqNv16F1XxQ==/109951165545356370.jpg?param=140y140",
+      "songPlayCount": "4762万"
+    },
+    {
+      "songName": "[微醺小酒馆] 有酒有音乐 不打烊酒馆 今晚营业中",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/CUE9eU8RbVToXcDGw15qoA==/109951166035788582.jpg?param=140y140",
+      "songPlayCount": "2760万"
+    },
+    {
+      "songName": "[深夜归路人] 给深夜归家的你留一盏灯",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/4vBjWpT9MnvKaK11tmDqpA==/109951167725086264.jpg?param=140y140",
+      "songPlayCount": "165万"
+    },
+    {
+      "songName": "[下班听我的] 打工人又度过了一天 下班快乐",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/f3wdSw5ZZYcXFKliS1nNeg==/109951166035753966.jpg?param=140y140",
+      "songPlayCount": "6710万"
+    },
+    {
+      "songName": "[韩剧时光] 在熟悉的旋律中一秒入戏",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/HgWiDHEDzrt9a8OKpzdoaQ==/109951166416366045.jpg?param=140y140",
+      "songPlayCount": "429万"
+    },
+    {
+      "songName": "[我们出发吧] 早 这是今日出发路上的音乐早餐",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/43aPrvoEk5fES-1vW-PvAQ==/109951166035736709.jpg?param=140y140",
+      "songPlayCount": "7268万"
+    },
+    {
+      "songName": "[最佳演出现场] 在耳机里感受live的魅力",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/b0vIjIERa7FzxSQQYS7e4A==/109951166035672972.jpg?param=140y140",
+      "songPlayCount": "1277万"
+    },
+    {
+      "songName": "[卧室漫游] 盖上被子 独享你心里的宇宙",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p2.music.126.net/0ZYjb9GdUqApvy74Ck3c-g==/109951167157036492.jpg?param=140y140",
+      "songPlayCount": "111万"
+    },
+    {
+      "songName": "[全世界失眠] 把心事藏进歌里，用俄语诉说思念",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/CYbWCqkvTNot0V6LhdG25A==/109951167666989018.jpg?param=140y140",
+      "songPlayCount": "77万"
+    },
+    {
+      "songName": "[爱恋银河] 跨越星河来见你",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/Fakz1dHRqjez0eQ5vyWqhg==/109951167746506773.jpg?param=140y140",
+      "songPlayCount": "104万"
+    },
+    {
+      "songName": "[独处时光] 给孤独的你一个隔空拥抱",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/7I1qvu44soUbsLhtHRGgtA==/109951167535510138.jpg?param=140y140",
+      "songPlayCount": "89万"
+    },
+    {
+      "songName": "[动感单车] 风驰电掣 车轮的速度由你掌控",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/qWFF0IcByAnZ334FgPafHA==/109951167536313854.jpg?param=140y140",
+      "songPlayCount": "190万"
+    },
+    {
+      "songName": "[打游戏听电音] 高燃贝斯为你补充游戏能量",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/e5d16K5_PsUmHiyz3SiZVQ==/109951166035636470.jpg?param=140y140",
+      "songPlayCount": "1472万"
+    },
+    {
+      "songName": "[宝贝的八音盒] 10万宝贝选择的哄睡音乐",
+      "songAuthor": "云音乐官方歌单",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+      "songImage": "http://p1.music.126.net/yNl7QBM2ri81dRCbjfX7Zg==/109951166035761539.jpg?param=140y140",
+      "songPlayCount": "1445万"
+    },
+    {
+      "songName": "Chill Time丨落日渐沉 晕染宁静小时光",
+      "songAuthor": "丨IIIIIIIIII丨",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340194/0903/b735/7c7a/0dddcdf78047d397d24125840e54ab5b.png",
+      "songImage": "http://p1.music.126.net/ZEu_VjTdgjYmrVFtNvO-MQ==/109951167729248716.jpg?param=140y140",
+      "songPlayCount": "10万"
+    },
+    {
+      "songName": "灵魂休憩站丨世界平凡 却处处点缀着小奇迹",
+      "songAuthor": "丨IIIIIIIIII丨",
+      "songAuthorIcon": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4761340194/0903/b735/7c7a/0dddcdf78047d397d24125840e54ab5b.png",
+      "songImage": "http://p1.music.126.net/zY6rVFh-dlKhoTWcTcDOTA==/109951168004923313.jpg?param=140y140",
+      "songPlayCount": "26559"
+    }
+  ]
+}
