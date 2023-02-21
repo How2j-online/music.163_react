@@ -1,7 +1,7 @@
-import React, {memo} from 'react';
+import React, {memo, Suspense} from 'react';
 import {renderRoutes} from 'react-router-config';
 import {HashRouter} from 'react-router-dom';
-import { Provider } from 'react-redux';
+import {Provider} from 'react-redux';
 import store from "@/store";
 
 import routes from '@/router';
@@ -15,7 +15,9 @@ export default memo(function App() {
             <Provider store={store}>
                 <HashRouter>
                     <HwAppHeader/>
-                    {renderRoutes(routes)}
+                        <Suspense fallback={<div>page loading</div>}>
+                            {renderRoutes(routes)}
+                        </Suspense>
                     <HwAppFooter/>
                     <HwPlayerBar/>
                 </HashRouter>
